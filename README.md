@@ -3,7 +3,7 @@ TradeSphere – Commodities Management System
 TradeSphere is a secure, role-based commodities management system built with React, TypeScript, and Vite.
 The project focuses on authentication-driven access, clean UI, and scalable frontend architecture for managing commodities efficiently.
 
-# Features
+# Features:
 
 # Authentication-based access (Login flow)
 
