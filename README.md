@@ -1,65 +1,62 @@
-TradeSphere – Commodities Management System
+# TradeSphere
 
-TradeSphere is a secure, role-based commodities management system built with React, TypeScript, and Vite.
-The project focuses on authentication-driven access, clean UI, and scalable frontend architecture for managing commodities efficiently.
+TradeSphere is a modern **commodities management frontend application** built using **React, TypeScript, and Vite**.  
+The project focuses on clean UI architecture, scalability, and role-based access–ready design.
 
-# Features:
+---
 
-# Authentication-based access (Login flow)
+## Overview
 
-# Role-based UI structure (Admin / User ready)
+TradeSphere is designed to serve as a foundation for a secure, role-based commodities management system.  
+The application emphasizes maintainable frontend architecture, performance, and professional UI practices.
 
-# Commodities listing & management (UI-ready)
+---
 
-# Fast development using Vite + HMR
+## Key Features
 
-# Clean, responsive UI
+- Structured React component architecture
+- Type-safe development using TypeScript
+- Authentication-ready UI flow
+- Role-based access design (frontend)
+- Fast development environment with Vite
+- Clean, responsive user interface
 
-# Modular and scalable component structure
+---
 
-# Tech Stack
+## Tech Stack
 
-Frontend: React.js, TypeScript
+- **Frontend:** React.js, TypeScript  
+- **Build Tool:** Vite  
+- **Styling:** CSS  
+- **Linting:** ESLint  
+- **Version Control:** Git, GitHub  
 
-Build Tool: Vite
+---
 
-Styling: CSS
+## Project Structure
+     TradeSphere/
+     ├── src/
+     │ ├── components/
+    │ ├── pages/
+    │ ├── assets/
+    │ ├── App.tsx
+    │ └── main.tsx
+    ├── public/
+    ├── package.json
+    ├── vite.config.ts
+    └── README.md
 
-Linting: ESLint
+---
 
-Version Control: Git & GitHub
+## Running the Project Locally
 
-# Project Structure
+### Clone the repository
+     git clone https://github.com/prahant00010/TradeSphere.git
+     cd TradeSphere
+### Install dependencies
+     npm install
+### Start development server
+    npm run dev
+### The application will be available at
+      http://localhost:5173
 
-
-TradeSphere/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── App.tsx
-│   └── main.tsx
-├── public/
-├── package.json
-├── vite.config.ts
-└── README.md
-
-#How to Run Locally
-1️ Clone the repository
-
-git clone https://github.com/prahant00010/TradeSphere.git
-
-cd TradeSphere
-
-2️ Install dependencies
-
-npm install
-
-3️ Start the development server
-
-npm run dev
-
-
-The app will run on:
-
-http://localhost:5173
