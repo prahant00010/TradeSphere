@@ -25,11 +25,11 @@
 
 ## Tech Stack
 
-    - **Frontend:** React.js, TypeScript  
-    - **Build Tool:** Vite  
-    - **Styling:** CSS  
-    - **Linting:** ESLint  
-    - **Version Control:** Git, GitHub  
+    - Frontend: React.js, TypeScript  
+    - Build Tool: Vite  
+    - Styling: CSS  
+    - Linting: ESLint  
+    - Version Control: Git, GitHub  
 
 
 
