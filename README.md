@@ -30,6 +30,8 @@ Linting: ESLint
 Version Control: Git & GitHub
 
 # Project Structure
+
+
 TradeSphere/
 ├── src/
 │   ├── components/
@@ -44,13 +46,17 @@ TradeSphere/
 
 #How to Run Locally
 1️ Clone the repository
+
 git clone https://github.com/prahant00010/TradeSphere.git
+
 cd TradeSphere
 
 2️ Install dependencies
+
 npm install
 
 3️ Start the development server
+
 npm run dev
 
 
